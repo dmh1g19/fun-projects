@@ -366,7 +366,7 @@ sunshineJan.head(20)
 
 
     
-![png](output_4_1.png)
+![png](img/output_4_1.png)
     
 
 
@@ -526,7 +526,7 @@ sunshineJan.head(20)
 
 
     
-![png](output_6_1.png)
+![png](img/output_6_1.png)
     
 
 
@@ -564,7 +564,7 @@ plt.show()
 
 
     
-![png](output_7_0.png)
+![png](img/output_7_0.png)
     
 
 
@@ -1486,7 +1486,7 @@ scatter_matrix(grouped_dataNoStr[attributes], figsize=(12, 8))
 
 
     
-![png](output_15_1.png)
+![png](img/output_15_1.png)
     
 
 

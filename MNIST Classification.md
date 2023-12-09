@@ -59,7 +59,7 @@ print("This is a: " + y[0])
 
 
     
-![png](output_2_1.png)
+![png](img/output_2_1.png)
     
 
 
@@ -233,7 +233,7 @@ plt.show()
 
 
     
-![png](output_12_0.png)
+![png](img/output_12_0.png)
     
 
 
@@ -250,7 +250,7 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+![png](img/output_13_0.png)
     
 
 
@@ -296,7 +296,7 @@ plt.show()
 
 
     
-![png](output_15_0.png)
+![png](img/output_15_0.png)
     
 
 

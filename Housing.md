@@ -326,7 +326,7 @@ plt.show()
 
 
     
-![png](output_5_0.png)
+![png](img/output_5_0.png)
     
 
 
@@ -468,7 +468,7 @@ housingData["income_cat"].hist()
 
 
     
-![png](output_7_1.png)
+![png](img/output_7_1.png)
     
 
 
@@ -671,7 +671,7 @@ plt.legend()
 
 
     
-![png](output_13_1.png)
+![png](img/output_13_1.png)
     
 
 
@@ -737,7 +737,7 @@ scatter_matrix(housing[attributes], figsize=(12, 8))
 
 
     
-![png](output_15_1.png)
+![png](img/output_15_1.png)
     
 
 
@@ -760,7 +760,7 @@ housing.plot(kind="scatter", x="median_income", y="median_house_value", alpha=0.
 
 
     
-![png](output_16_1.png)
+![png](img/output_16_1.png)
     
 
 
