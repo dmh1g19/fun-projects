@@ -1,5 +1,15 @@
 # Classic housing dataset example using the following book: Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow (Aurélien Géron)
 
+## Predicts housing prices using supervised models
+
+**Data Processing:** The data is loaded, and a quick analysis is conducted to understand its structure. Missing data in 'total_bedrooms' and categorical data in 'ocean_proximity' are noted. The data is then explored with histograms, and a test set is created with stratified sampling based on the income category.
+
+**Feature Engineering:** New features are derived, including 'rooms_per_household' and 'bedrooms_per_room', and the data is prepared for machine learning algorithms by handling missing values and converting categorical attributes to numerical ones.
+
+**Model Training and Evaluation:** A linear regression model is trained on the data. The model's predictions are compared against actual labels to evaluate its performance. An SVR model with a linear kernel is also trained and evaluated.
+
+**Key Observations:** The project includes observations about potential data caps and the importance of the 'median_income' attribute for predicting housing prices.
+
 ```python
 #Implementing supervised learning using regression to predict values
 
