@@ -1,3 +1,22 @@
+# Predict year mean sunshine hours
+
+## Key aspects
+
+**1)** Loading data from a CSV file that contains sunshine duration across different months for various countries and cities.
+
+**2)** The dataset consists of 392 entries with some missing values in the 'Sep' column.
+
+**3)** Creation of a training and testing set for machine learning or statistical analysis.
+
+**4)** Visualization of the data is performed to understand the distribution of sunshine hours across different countries and cities.
+
+**5)** Grouping and averaging sunshine duration data by country to facilitate comparisons.
+
+**6)** Correlation analysis to understand the relationship between monthly sunshine hours and annual averages.
+The use of scatter matrix plots to visualize potential correlations between variables.
+
+**7)** Uses a linear regression model to analyze and predict sunshine duration, and evaluates the model's performance using standard metrics like RMSE
+
 ```python
 #Load the data
 
