@@ -3,8 +3,11 @@
 ## This is based on the following paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9358734&tag=1
 
 **Pre-processing:** Scaling numeric attributes and encoding categorical attributes, with a focus on Weight of Evidence (WoE) encoding for categorical features.
+
 **Feature Selection:** Techniques like Extra Trees Classifier were used to select prime attributes.Pre-processing: Scaling numeric attributes and encoding categorical attributes, with a focus on Weight of Evidence (WoE) encoding for categorical features.
+
 **Machine Learning Algorithms:** Random Forest lassifier, and logistic regression
+
 **Performance Evaluation:** The system was assessed using metrics like accuracy, precision, recall, F1-score, and area under the receiver operating characteristic curve (AUC-score).
 
 ```python
