@@ -1,3 +1,5 @@
+# Classic housing dataset example using the following book: Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow (Aurélien Géron)
+
 ```python
 #Implementing supervised learning using regression to predict values
 
