@@ -1,3 +1,18 @@
+# Enhanced Twitter bot detection using ensemble machine learning
+## This project is based on the following paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9358734&tag=1
+
+**Data Collection:** Twitter profile metadata was collected from Kaggle, originally retrieved from twitter's API.
+
+**Preprocessing:** Includes scaling numeric attributes and encoding categorical attributes, with a focus on Weight of Evidence (WoE) encoding for categorical features.
+
+**Feature Selection:** Techniques like Extra Trees Classifier were used to select prime attributes.
+
+**Machine Learning Algorithms:** Various classifiers like Random Forest.
+
+**Ensemble Learning:** A blending approach was used, combining outputs of different models using Random Forest.
+
+**Performance Evaluation:** The system was assessed using metrics like accuracy, precision, recall, F1-score, and area under the receiver operating characteristic curve (AUC-score).
+
 ```python
 import numpy as np
 import pandas as pd
